@@ -1,0 +1,28 @@
+body{
+    font-family: Arail;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input{
+    padding: 10px;
+    font-size: 1rem;
+
+}
+button{
+    padding: 10px 15px;
+    font-size: 1rem;
+    margin-left: 5px;
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+
+}
+.delete-Btn{
+    margin-top: 10px;
+    color: red;
+    cursor: pointer;
+}
